@@ -32,9 +32,31 @@
 
 ## Details and count of Petrol cars of the year 2020
 
+![image](https://github.com/deva-246/DataAnalysis-on-Cardheko-dataset-using-SQL/assets/75877347/946298ef-6948-44bf-89b6-857aa185b9cb)
+
+
 ## Details and count on distinct fuel cars with respect to year
+
+![image](https://github.com/deva-246/DataAnalysis-on-Cardheko-dataset-using-SQL/assets/75877347/ea9e9a9a-66b7-42fa-953e-15527029580d)
+
+![image](https://github.com/deva-246/DataAnalysis-on-Cardheko-dataset-using-SQL/assets/75877347/7147e239-34e9-410c-8c11-49ee6d02a6c4)
+
+![image](https://github.com/deva-246/DataAnalysis-on-Cardheko-dataset-using-SQL/assets/75877347/894d27e9-3de7-48fe-8b8b-4810029c8468)
+
+![image](https://github.com/deva-246/DataAnalysis-on-Cardheko-dataset-using-SQL/assets/75877347/cc2614c9-92c8-4302-8e36-5dbc1905dbe4)
+
+
 
 ## Year which had more than 100 cars
 
+![image](https://github.com/deva-246/DataAnalysis-on-Cardheko-dataset-using-SQL/assets/75877347/6b52f2a8-5be1-4a83-bde3-cb785b85b26a)
+
+
 ## Details and count of cars between the year 2015 and 2023
+
+![image](https://github.com/deva-246/DataAnalysis-on-Cardheko-dataset-using-SQL/assets/75877347/7495ac12-065e-482e-9a67-bbd16271207b)
+
+![image](https://github.com/deva-246/DataAnalysis-on-Cardheko-dataset-using-SQL/assets/75877347/dca79c0f-1b85-4207-82b9-a98f241d8099)
+
+
 
